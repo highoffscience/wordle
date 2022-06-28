@@ -1,0 +1,1 @@
+javascipt prog to play wordle (theoretically optimally)
